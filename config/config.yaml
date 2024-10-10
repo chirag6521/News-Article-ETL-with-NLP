@@ -1,0 +1,2 @@
+database:
+  url: "postgresql://username:password@localhost/news_articles"
